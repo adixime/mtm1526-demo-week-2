@@ -1,0 +1,13 @@
+.box {
+	width: 200px;
+	height: 200px;
+	background-color: #096;
+	position: absolute;
+	left: 200px;
+	top: 200px;
+}
+
+button {
+	position: relative;
+	z-index: 5000;
+}
